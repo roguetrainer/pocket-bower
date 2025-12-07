@@ -1,8 +1,8 @@
 # 🃏 Pocket Bower: Euchre AI Solvers
 
-**Pocket Bower** is a modular Python framework for building, training, and analyzing AI agents for [**Euchre**](https://en.wikipedia.org/wiki/Euchre).
+**Pocket Bower** is a modular Python framework for building, training, and analysing AI agents for [**Euchre**](https://en.wikipedia.org/wiki/Euchre).
 
-Designed as a companion to the educational AI Poker-Bot [pocket-pluribus](https://github.com/roguetrainer/pocket-pluribus), this repository focuses on the challenges of **Cooperative Imperfect Information Games**.
+Designed as a companion to the educational AI Poker-Bot [pocket-pluribus](https://github.com/roguetrainer/pocket-pluribus), this repository focusses on the challenges of **Cooperative Imperfect Information Games**.
 
 ---
 ![Euchre](./img/euchre.png)
@@ -38,7 +38,7 @@ A fully state-of-the-art system would require deeper abstractions, massive self-
 
 ### On National Character and Card Games
 
-The [geopolitical games adage](https://github.com/roguetrainer/pocket-pluribus/blob/main/docs/geopolitical-games-adage.md) suggests that nations reveal their strategic character through their favored games: China through Go (territorial patience), Russia through Chess (tactical brutality), America through Poker (bluffing under uncertainty).
+The [geopolitical games adage](https://github.com/roguetrainer/pocket-pluribus/blob/main/docs/geopolitical-games-adage.md) suggests that nations reveal their strategic character through their favoured games: China through Go (territorial patience), Russia through Chess (tactical brutality), America through Poker (bluffing under uncertainty).
 
 **So what does Euchre say about Canada?**
 
