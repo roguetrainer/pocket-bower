@@ -67,6 +67,8 @@ Also, there are *bowers*—cards that secretly change identity based on context.
 * **Agent Zoo:** Random, Rule-Based (Heuristic), MCTS (Information Set), and CFR (Nash Equilibrium for Bidding).
 * **Educational Notebooks:** Visualizations of state and AI decision making.
 
+📚 **For a deep dive into the AI methods, comparisons with Chess/Go/Poker AI, and MCTS applications beyond games, see [OVERVIEW.md](OVERVIEW.md)**
+
 ## 📦 Installation
 
 ```bash
