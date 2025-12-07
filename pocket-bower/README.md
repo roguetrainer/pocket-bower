@@ -1,8 +1,12 @@
 # 🃏 Pocket Bower: Euchre AI Solvers
 
-**Pocket Bower** is a modular Python framework for building, training, and analyzing AI agents for **Euchre**.
+**Pocket Bower** is a modular Python framework for building, training, and analyzing AI agents for [**Euchre**](https://en.wikipedia.org/wiki/Euchre).
 
 Designed as a companion to the educational AI Poker-Bot [pocket-pluribus](https://github.com/roguetrainer/pocket-pluribus), this repository focuses on the challenges of **Cooperative Imperfect Information Games**.
+
+---
+![Euchre](../img/euchre.png)
+---
 
 ## 📖 About the Name
 

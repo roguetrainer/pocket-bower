@@ -2,6 +2,10 @@
 
 Designed as a companion to the educational AI Poker-Bot [pocket-pluribus](https://github.com/roguetrainer/pocket-pluribus), this repository focuses on the challenges of **Cooperative Imperfect Information Games**.
 
+---
+![Euchre](../../img/euchre.png)
+---
+
 ## **1\. The Current Landscape**
 
 Euchre occupies a unique niche in AI research. Unlike Chess or Go (perfect information games), Euchre is an **Imperfect Information Game** with a high degree of variance and cooperative elements.
