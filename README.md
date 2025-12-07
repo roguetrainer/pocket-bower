@@ -5,7 +5,7 @@
 Designed as a companion to the educational AI Poker-Bot [pocket-pluribus](https://github.com/roguetrainer/pocket-pluribus), this repository focuses on the challenges of **Cooperative Imperfect Information Games**.
 
 ---
-![Euchre](../img/euchre.png)
+![Euchre](./img/euchre.png)
 ---
 
 ## 📖 About the Name
