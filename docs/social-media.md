@@ -38,15 +38,14 @@ Here's what makes this interesting from an AI perspective:
 
 The "bower" (Jack of trump suit) that secretly changes identity based on context? That's a perfect metaphor for modern AI - sometimes the right tool for the job ISN'T the shiniest new technology, but the algorithm that understands the structure of the problem.
 
-Link to repo: [GitHub link]
+🔗 https://github.com/roguetrainer/pocket-bower
 
-What games from YOUR culture would make interesting AI challenges? 🤔
 
 ---
 
 ### Option 2: Cultural + Technical Balance
 
-🍁 FROM ONTARIO COTTAGES TO NASH EQUILIBRIUM: What Euchre Reveals About AI and National Character
+🍁 FROM ONTARIO COTTAGES TO NASH EQUILIBRIUM: What Euchre Reveals About AI and National Character ♠️♣️
 
 There's an old adage: nations reveal their strategic character through games. China through Go (territorial patience), Russia through Chess (tactical brutality), America through Poker (bluffing under uncertainty).
 
@@ -73,9 +72,9 @@ Not every AI problem needs a transformer. Sometimes:
 
 Our sister project pocket-pluribus proved this for Poker. Pocket Bower extends the lesson to COOPERATIVE imperfect information games.
 
-Also, cards that change identity based on context (the "bower") are unexpectedly deep metaphors for... okay, I'm reaching. 😄 But the AI challenges are real!
+♠️♣️ Also, cards that change identity based on context (the "bower") are unexpectedly deep metaphors for... okay, I'm reaching. 😄 But the AI challenges are real!
 
-Check it out: [GitHub link]
+🔗 https://github.com/roguetrainer/pocket-bower
 
 What's YOUR cottage game? 🎣🃏
 
@@ -253,7 +252,45 @@ Who else is tired of throwing transformers at every problem? 🙋
 
 ## Hashtag Suggestions:
 
-#ArtificialIntelligence #MachineLearning #GameTheory #ReinforcementLearning #AI #MCTS #CFR #GameAI #ClassicalAI #Canada #Ontario #TechEducation #OpenSource #Python #AlgorithmDesign #NashEquilibrium #MonteCarloTreeSearch #DeepLearning #AIResearch #ComputerScience
+### Recommended Combinations (30 hashtags - LinkedIn's maximum):
+
+**For Technical Audience:**
+```
+#ArtificialIntelligence #MachineLearning #AI #GameTheory #MCTS #CFR #NashEquilibrium #ReinforcementLearning #GameAI #ClassicalAI #DeepLearning #AlgorithmDesign #ComputerScience #Python #OpenSource #GitHub #AIResearch #TechInnovation #MonteCarloTreeSearch #SearchAlgorithms #CardGames #Euchre #CooperativeAI #MultiAgentSystems #Canada #Ontario #CanadianTech #AIEducation #SoftwareEngineering #DataScience
+```
+
+**For Broader Engagement:**
+```
+#AI #ArtificialIntelligence #MachineLearning #GameTheory #Canada #Ontario #CanadianTech #TechInnovation #DeepLearning #OpenSource #AIResearch #Python #GitHub #GameAI #ComputerScience #CardGames #Euchre #MCTS #CFR #AlgorithmDesign #AIEducation #TechEducation #STEM #CooperativeAI #ClassicalAI #SoftwareEngineering #DataScience #TechLeadership #AIDebate #LearnAI
+```
+
+### By Category:
+
+**Primary (High Engagement):**
+#ArtificialIntelligence #MachineLearning #GameTheory #AI #GameAI #ReinforcementLearning #ComputerScience #TechInnovation #OpenSource #Python
+
+**Technical/Algorithm Specific:**
+#MCTS #CFR #MonteCarloTreeSearch #CounterfactualRegret #NashEquilibrium #AlgorithmDesign #ClassicalAI #GameTheoryAI #SearchAlgorithms
+
+**Domain/Application:**
+#CardGames #Euchre #PokerAI #BoardGameAI #ImperfectInformation #CooperativeAI #MultiAgentSystems
+
+**Canadian/Regional:**
+#Canada #Ontario #CanadianTech #MadeInCanada #TorontoTech #CanadianAI
+
+**Educational/Community:**
+#AIResearch #AIEducation #LearnAI #TechEducation #STEM #DataScience #SoftwareEngineering #GitHub #CodingCommunity
+
+**Debate/Thought Leadership:**
+#DeepLearning #AIDebate #TechPhilosophy #AlgorithmSelection #AIStrategy #TechLeadership
+
+### Strategic Notes:
+- Lead with highest-traffic tags (#AI, #ArtificialIntelligence, #MachineLearning)
+- Include geographic tags (#Canada #Ontario #CanadianTech) for Canadian tech community visibility
+- Mix technical depth (#MCTS, #CFR, #NashEquilibrium) with accessible terms (#GameAI, #CardGames)
+- Include debate-worthy tags (#DeepLearning, #AIDebate) to encourage engagement
+- Don't forget community tags (#OpenSource, #GitHub) for developer audience
+- Use #Euchre and #CardGames to reach niche communities
 
 ---
 
